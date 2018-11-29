@@ -1,14 +1,14 @@
 {
-  "sitename": "Bael",
+  "sitename": "Blog Template",
   "sitedescription": "A fashionable brutalist blog template using Netlify CMS and Nuxt.js.",
   "siteicon": "/images/uploads/icon.png",
   "showmenu": true,
   "emailsignup": true,
   "menu": [
     {
-      "name": "jake101",
+      "name": "sh1r00",
       "position": "1",
-      "link": "https://www.jake101.com/"
+      "link": ""
     },
     {
       "name": "Nuxt.js",
